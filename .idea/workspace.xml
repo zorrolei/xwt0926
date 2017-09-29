@@ -15,7 +15,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/about.html">
+        <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -25,7 +25,7 @@
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/index.html">
+        <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="607">
               <caret line="534" column="15" lean-forward="false" selection-start-line="534" selection-start-column="12" selection-end-line="534" selection-end-column="15" />
@@ -40,7 +40,7 @@
         </entry>
       </file>
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/css/index.css">
+        <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
               <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
@@ -50,17 +50,27 @@
         </entry>
       </file>
       <file leaf-file-name="wapask_all.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/css/wapask_all.css">
+        <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/css/wapask_all.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="356">
-              <caret line="359" column="21" lean-forward="false" selection-start-line="359" selection-start-column="21" selection-end-line="359" selection-end-column="21" />
+              <caret line="359" column="21" lean-forward="true" selection-start-line="359" selection-start-column="21" selection-end-line="359" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="weixin.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/js/weixin.js">
+        <entry file="file://$PROJECT_DIR$/nxg.pysoa.com/js/weixin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="153" lean-forward="false" selection-start-line="1" selection-start-column="153" selection-end-line="1" selection-end-column="153" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weixin.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/js/weixin.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
               <caret line="1" column="161" lean-forward="false" selection-start-line="1" selection-start-column="161" selection-end-line="1" selection-end-column="161" />
@@ -70,7 +80,7 @@
         </entry>
       </file>
       <file leaf-file-name="wapask_base.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/css/wapask_base.css">
+        <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/css/wapask_base.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -99,6 +109,7 @@
     <findStrings>
       <find>_top</find>
       <find>.nav</find>
+      <find>nav</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/syy.wkcg4.com</dir>
@@ -121,6 +132,7 @@
         <option value="$PROJECT_DIR$/syy.wkcg4.com/js/weixin.js" />
         <option value="$PROJECT_DIR$/syy.wkcg4.com/index.html" />
         <option value="$PROJECT_DIR$/syy.wkcg4.com/css/wapask_all.css" />
+        <option value="$PROJECT_DIR$/nxg.pysoa.com/js/weixin.js" />
       </list>
     </option>
   </component>
@@ -161,18 +173,12 @@
             <path>
               <item name="xwt0926" type="b2602c69:ProjectViewProjectNode" />
               <item name="xwt0926" type="462c0819:PsiDirectoryNode" />
-              <item name="syy.wkcg4.com" type="462c0819:PsiDirectoryNode" />
+              <item name="nxg.pysoa.com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xwt0926" type="b2602c69:ProjectViewProjectNode" />
               <item name="xwt0926" type="462c0819:PsiDirectoryNode" />
-              <item name="syy.wkcg4.com" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xwt0926" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xwt0926" type="462c0819:PsiDirectoryNode" />
-              <item name="syy.wkcg4.com" type="462c0819:PsiDirectoryNode" />
+              <item name="nxg.pysoa.com" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -189,9 +195,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/syy.wkcg4.com" />
       <recent name="$PROJECT_DIR$/syy.wkcg4.com/images" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/nx23.pysob.com" />
     </key>
   </component>
@@ -222,12 +228,12 @@
       <workItem from="1506499959711" duration="226000" />
       <workItem from="1506559378302" duration="161000" />
       <workItem from="1506606209465" duration="1588000" />
-      <workItem from="1506653106871" duration="672000" />
+      <workItem from="1506653106871" duration="1442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4560000" />
+    <option name="totallyTimeSpent" value="5330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
@@ -262,7 +268,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/about.html">
+    <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -270,7 +276,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/index.html">
+    <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
           <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
@@ -283,7 +289,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/js/weixin.js">
+    <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/js/weixin.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
@@ -291,7 +297,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/css/wapask_base.css">
+    <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/css/wapask_base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -490,7 +496,7 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/万兔科技男性模板/index.html" />
-    <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/about.html">
+    <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -498,7 +504,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/css/wapask_base.css">
+    <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/css/wapask_base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -518,7 +524,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/js/weixin.js">
+    <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/js/weixin.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="161" lean-forward="false" selection-start-line="1" selection-start-column="161" selection-end-line="1" selection-end-column="161" />
@@ -526,7 +532,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/index.html">
+    <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="607">
           <caret line="534" column="15" lean-forward="false" selection-start-line="534" selection-start-column="12" selection-end-line="534" selection-end-column="15" />
@@ -539,7 +545,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/css/index.css">
+    <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
@@ -547,10 +553,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/syy.wkcg4.com/css/wapask_all.css">
+    <entry file="file://$PROJECT_DIR$/nxg.pysoa.com/js/weixin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="153" lean-forward="false" selection-start-line="1" selection-start-column="153" selection-end-line="1" selection-end-column="153" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abs.wkcg3.com/css/wapask_all.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
-          <caret line="359" column="21" lean-forward="false" selection-start-line="359" selection-start-column="21" selection-end-line="359" selection-end-column="21" />
+          <caret line="359" column="21" lean-forward="true" selection-start-line="359" selection-start-column="21" selection-end-line="359" selection-end-column="21" />
           <folding />
         </state>
       </provider>

@@ -1,0 +1,36 @@
+div#zf-info a:hover {
+    border-bottom: 0 !important;
+}
+
+.bg-zf {
+    background-image: url(//file.baixing.net/201707/46c03ea151b7b78d246c5dca5f34f27f.png);
+    background-repeat: no-repeat;
+    height: 35px;
+    margin: 20px 10px 0;
+    display: inline-block;
+}
+
+.bg-dianping {
+    background-position: 0 -70px;
+    width: 90px;
+}
+
+.bg-jubao {
+    background-position: 0 -105px;
+    width: 95px;
+}
+
+.bg-jubao2 {
+    background-position: 0 -140px;
+    width: 96px;
+}
+
+.bg-gongshang {
+    background-position: 0 0;
+    width: 35px;
+}
+
+.bg-zhengxin {
+    background-position: 0 -35px;
+    width: 35px;
+}

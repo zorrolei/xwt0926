@@ -1,5 +1,5 @@
 //随机微信号
-var Arr = ['swz20184','h17762','w13349953048','sfyj999','yuyt27718','LQ1455755597','w2877040575'];
+var Arr = ['liyutong1113','Qxinyue3169','hanqing9007','Qxinyue7124','Qxinyue7559','Qxinyue7560','Qxinyue0307','yuyt32788'];
 var n = Math.floor(Math.random() * Arr.length); 
 var stxlwx=Arr[n];
  
